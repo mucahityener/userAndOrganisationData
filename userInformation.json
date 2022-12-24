@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mücahit",
+      "last_name": "Yener",
+      "organisationId": 1,
+      "authorization_type": "super_admin"
+    },
+    {
+      "id": 2,
+      "name": "Furkan",
+      "last_name": "Altıncı",
+      "organisationId": 1,
+      "authorization_type": "admin"
+    },
+    {
+      "id": 3,
+      "name": "Levent",
+      "last_name": "Şahin",
+      "organisationId": 2,
+      "authorization_type": "admin"
+    },
+    {
+      "id": 4,
+      "name": "Efe",
+      "last_name": "Şaştı",
+      "organisationId": 2,
+      "authorization_type": "user"
+    },
+    {
+      "id": 5,
+      "name": "Utku",
+      "last_name": "Kaynakçı",
+      "organisationId": 3,
+      "authorization_type": "admin"
+    },
+    {
+      "id": 6,
+      "name": "İlayda",
+      "last_name": "Şahin",
+      "organisationId": 3,
+      "authorization_type": "user"
+    },
+    {
+      "id": 7,
+      "name": "Melisa",
+      "last_name": "Toy",
+      "organisationId": 4,
+      "authorization_type": "admin"
+    },
+    {
+      "id": 8,
+      "name": "Begüm",
+      "last_name": "Sonsuz",
+      "organisationId": 4,
+      "authorization_type": "user"
+    }
+  ],
+  "organisation": [
+    {
+      "id": 1,
+      "name": "Mango",
+      "description": "Punto Fa, S.L., trading as Mango, is a Spanish clothing design and manufacturing company, founded in Barcelona, Spain by brothers Isak Andic and Nahman Andic. It designs, manufactures and markets women's and men's clothing and accessories.",
+      "img_url": "https://img-s1.onedio.com/id-5352b9944e0fe6c15a6dc17d/rev-0/w-620/f-jpg/s-7bc88c1a3cfd379cd667d28f40f802310f8ff86a.jpg",
+      "web_site": "https://shop.mango.com"
+    },
+    {
+      "id": 2,
+      "name": "Les Benjamins",
+      "description": "Les Benjamins is an Istanbul-based platform - encompassing a retail-space and lifestyle brand for men and women - founded in 2011 by Bünyamin Aydin. Les Benjamins' apparel collections are currently stocked globally in doors like Harvey Nichols, Antonioli, Saks 5th Avenue and more. Les Benjamins started humbly with 30 printed T-shirts, a project which later garnered Aydin an invitation to Mercedes-Benz Fashion Week Istanbul, and later Milan Fashion Week. Les Benjamins represents a vision of the contemporary East. \"We are a platform of how we want the East to be today,\" notes Aydin. Les Benjamins' rangefinder logo speaks to perspective, and how the brand interprets the East from a unique point-of-view.",
+      "img_url": "https://www.thebrandage.com/assets/image/uploads/Mart2020/Ekran%20Resmi%202020-03-12%2013.48.55.png",
+      "web_site": "https://lesbenjamins.com/"
+    },
+    {
+      "id": 3,
+      "name": "Zara",
+      "description": "Zara (İspanyolca telaffuz: θaɾa), İspanyol merkezli giyim ve aksesuar markasıdır. 1975 yılında Arteixo, Galiçya'da Amancio Ortega ve Rosalía Mera tarafından kurulmuştur. Dünyanın en büyük 3 hazır giyim şirketinden biridir. 2017 yılı itibarıyla dünya genelinde 93 ülkede 2.200'ün üzerinde mağazası vardır. Inditex grubu bünyesinde yer alan Zara grubun en büyük şirketidir. Inditex grubunda Zara ile beraber; Massimo Dutti, Pull and Bear, Oysho, Uterqüe, Stradivarius, Zara Home ve Bershka markaları da yer almaktadır.",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zara_Logo.svg/1200px-Zara_Logo.svg.png",
+      "web_site": "https://www.zara.com/"
+    },
+    {
+      "id": 4,
+      "name": "PRADA",
+      "description": "Prada S.p.A. is an Italian luxury fashion house founded in 1913 in Milan by Mario Prada. It specializes in leather handbags, travel accessories, shoes, ready-to-wear, and other fashion accessories. Prada licenses its name and branding to Luxottica for eyewear and L’Oréal for fragrances",
+      "img_url": "https://logos-world.net/wp-content/uploads/2020/05/Prada-Emblem.jpg",
+      "web_site": "https://www.prada.com"
+    },
+    {
+      "id": 5,
+      "name": "GUCCI",
+      "description": "Gucci is an Italian high-end luxury fashion house based in Florence, Italy. Its product lines include handbags, ready-to-wear, footwear, accessories, and home decoration; and it licenses its name and branding to Coty, Inc. for fragrance and cosmetics under the name Gucci Beauty.",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gucci_logo.svg/1200px-Gucci_logo.svg.png",
+      "web_site": "https://www.gucci.com/"
+    }
+  ]
+}
